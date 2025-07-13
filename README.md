@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Saravanakumar Subramani
 
-<!--
-**saravana87/saravana87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Full-stack engineer & AI enthusiast with **14+ years** of experience  
+- 🧠 Specializing in **Python**, **Generative AI**, **LLM integrations**, and **Cloud (AWS x3 certified)**  
+- 🔍 Recent work includes:
+  - Clinical data summarization using **BiomedBERT**
+  - Insurance appeal letter generator with **AWS Bedrock**
+  - Chatbots with **LlamaIndex**, **LangChain**, **pgvector**, **Streamlit**
 
-Here are some ideas to get you started:
+- ☁️ AWS Certified: Cloud Practitioner | Developer Associate | Solutions Architect Associate  
+- 🛠️ Also building with **TypeScript**, **Twilio**, and **custom RAG pipelines**  
+- 🌍 Available for remote AI/full-stack roles  
+- 📫 Reach me at: techiesarava@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn](https://www.linkedin.com/in/saravanakumar-subramani-8bb38854) | [GitHub](https://github.com/saravana87)
