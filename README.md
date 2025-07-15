@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Saravanakumar Subramani
+# Hi, I’m Saravanakumar Subramani
 
 - 💻 Full-stack engineer & AI enthusiast with **14+ years** of experience  
 - 🧠 Specializing in **Python**, **Generative AI**, **LLM integrations**, and **Cloud (AWS x3 certified)**  
